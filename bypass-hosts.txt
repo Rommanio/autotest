@@ -1,6 +1,7 @@
 111.88.7.92
 176.118.197.101
 178.134.1.158
+183.giatvcdn.com
 185.23.80.23
 23.237.104.106
 31.148.48.15
@@ -39,7 +40,6 @@ jmp2.uk
 lds-timeline-rakuten.amagi.tv
 live-hls-apps-aje-fa.getaj.net
 live.15plusmg.ru
-live20.bozztv.com
 lotus.stingray.com
 m.live.net.sa
 moviesphereuk-samsunguk.amagi.tv
