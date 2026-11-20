@@ -17,7 +17,8 @@ aegis-cloudfront-1.tubi.video
 amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv
 amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv
 amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
-amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
+amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv
+amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv
 amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv
 bl.rutube.ru
 bloomberg.com
