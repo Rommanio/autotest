@@ -19,6 +19,7 @@ amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
 amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv
 amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv
 amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv
+antm.dynu.net
 bl.rutube.ru
 bloomberg.com
 cdn-01.bonus-tv.ru
@@ -35,7 +36,6 @@ donmedia.bonus-tv.ru
 dzkyvlfyge.erbvr.com
 flussonic.linkintel.ru
 freem3u.xyz
-fs.uplink.kz
 jmp2.uk
 lds-timeline-rakuten.amagi.tv
 live-hls-apps-aje-fa.getaj.net
@@ -46,6 +46,7 @@ moviesphereuk-samsunguk.amagi.tv
 mumbai-edge.smartplaytv.in
 r.eu.cdn-redge.media
 rt-doc.rttv.com
+s7.merlive.am
 sdn-global-live-streaming-packager-cache.3qsdn.com
 stream.mcquack.net
 stream8.cinerama.uz
